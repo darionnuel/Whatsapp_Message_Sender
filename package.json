@@ -1,0 +1,18 @@
+{
+  "name": "whatsappmessaging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Emmanuel Oguneko",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "qrcode": "^1.5.3",
+    "whatsapp-web.js": "^1.22.1"
+  }
+}
